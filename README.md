@@ -50,3 +50,9 @@ Rain + Cafe
 > http://naturesoundsfor.me/
 
 You can mix upto 4 sounds from the sounds of nature, rain, mammals, birds, households, music etc.
+
+
+##Harry Potter Ambient Sounds
+>http://harry-potter-sounds.ambient-mixer.com/
+
+Sounds from different Harry Potter Common rooms and even a train ride. 
