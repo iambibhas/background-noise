@@ -4,7 +4,7 @@ List of websites or music that can work as background noise as you work or relax
 ## Coffitivity
 > http://www.coffitivity.com/
 
-Find yourself in the middle of an American coffee shop.
+Find yourself in the middle of a coffee shop.
 
 ## Bird Song
 > http://birdsong.fm/
@@ -24,7 +24,7 @@ Rain makes everything better?
 ## Noisli
 > http://www.noisli.com/
 
-From the typical rain, thunder to white noise, pink noise or even the sound of train.
+Starting from the typical rain, thunder till white noise, pink noise or even the sound of train.
 
 ## Noise Machine
 > https://mynoise.net/noiseMachines.php
