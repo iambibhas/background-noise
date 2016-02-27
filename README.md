@@ -21,6 +21,12 @@ Pick a beach and listen to it's sound.
 
 Find yourself in the middle of a coffee shop.
 
+## Focus@Will [Paid]
+
+> https://www.focusatwill.com/
+
+A number of different styles of music and background noises designed to help you concentrate.  They include timed sessions if you want to use it for the pomodoro technique too.  They claim scientific basis for their music choices.  It's a paid service and costs $99 for a year or $149 for two years.
+
 ## MyNoise.net
 > http://www.mynoise.net
 
@@ -60,9 +66,3 @@ Sounds from different Harry Potter Common rooms and even a train ride.
 > http://tabletopaudio.com/
 
 Instrumental music of variety of themes.
-
-## Focus@Will [Paid]
-
-> https://www.focusatwill.com/
-
-A number of different styles of music and background noises designed to help you concentrate.  They include timed sessions if you want to use it for the pomodoro technique too.  They claim scientific basis for their music choices.  It's a paid service and costs $99 for a year or $149 for two years.
