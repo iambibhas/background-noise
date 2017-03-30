@@ -57,6 +57,11 @@ Rain + Cafe
 
 Rain makes everything better?
 
+## Another realistic, tunable rain simulator
+> https://rain.today/
+
+Your Daily Source of Natural Rain Sounds
+
 ## Harry Potter Ambient Sounds
 >http://harry-potter-sounds.ambient-mixer.com/
 
