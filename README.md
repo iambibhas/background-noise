@@ -2,7 +2,7 @@
 List of websites or music that can work as background noise as you work or relax.
 
 ## A Soft Murmur
-> http://asoftmurmur.com/o
+> https://asoftmurmur.com/
 
 A mixure of rain, thunder, ocean waves, wind and even fire.
 
